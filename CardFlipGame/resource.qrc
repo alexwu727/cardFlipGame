@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/cards.png</file>
+        <file>img/tomato.png</file>
+        <file>img/spinach.png</file>
+        <file>img/onion.png</file>
+        <file>img/lemon.png</file>
+        <file>img/potato.png</file>
+        <file>img/cabbage.png</file>
+        <file>img/carrot.png</file>
+        <file>img/broccoli.png</file>
+        <file>img/organic-food.png</file>
+    </qresource>
+</RCC>
